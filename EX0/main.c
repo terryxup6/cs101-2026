@@ -2,9 +2,6 @@
 
 int main()
 {
-    int i;
-    for (i = 0; i < 5; i++){
-        printf("*****\n");
-    }
+    printf("*****\n*****\n*****\n*****\n*****");
     return 0;
 }
